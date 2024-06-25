@@ -1,6 +1,6 @@
-let  country = "pakistan";
-let  province = "punjab";
-let city = "lahore,";
+let  country = "Pakistan";
+let  province = "Punjab";
+let city = "Lahore,";
 
 let output = city + province +" are in "+ country ;
 alert(output);
